@@ -1,0 +1,115 @@
+master
+_________________
+
+
+C:\Users\Mishev\Desktop\SI_2024_lab1_215052>git log
+commit 3e0b5fb435f7994fdc14f0b4b008c97ba8f42887 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: mishevnikola <misevnikola0@gmail.com>
+Date:   Sat Apr 13 19:52:37 2024 +0200
+
+                            Call method makeBigStringFrom in main class
+
+commit 6729ab2b47951e1a45cc1eccbddd8d9a9c0065c1
+Author: mishevnikola <misevnikola0@gmail.com>
+Date:   Sat Apr 13 19:49:26 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit d378fd48bd023e5d13668ed195b61889c7e4fef8 (origin/bug1, bug1)
+Author: mishevnikola <misevnikola0@gmail.com>
+Date:   Sat Apr 13 19:51:13 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit f484c7f654326eef589d84cf7ba0e91ee85b6688
+Author: mishevnikola <misevnikola0@gmail.com>
+Date:   Sat Apr 13 19:48:01 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit df6016a559d0bedca0a4d43886d3f367c82419f6
+Author: mishevnikola <misevnikola0@gmail.com>
+Date:   Sat Apr 13 19:37:58 2024 +0200
+
+    Add starter code
+
+commit 9d9fc1d50bb133a51ddc8a125a7eb167e0bed660
+Author: mishevnikola <misevnikola0@gmail.com>
+Date:   Sat Apr 13 19:35:17 2024 +0200
+
+    Initial commit
+
+
+bug 1
+__________________
+
+
+C:\Users\Mishev\Desktop\SI_2024_lab1_215052>git log
+commit d378fd48bd023e5d13668ed195b61889c7e4fef8 (HEAD -> bug1, origin/bug1)
+Author: mishevnikola <misevnikola0@gmail.com>
+Date:   Sat Apr 13 19:51:13 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit f484c7f654326eef589d84cf7ba0e91ee85b6688
+Author: mishevnikola <misevnikola0@gmail.com>
+Date:   Sat Apr 13 19:48:01 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit df6016a559d0bedca0a4d43886d3f367c82419f6
+Author: mishevnikola <misevnikola0@gmail.com>
+Date:   Sat Apr 13 19:37:58 2024 +0200
+
+    Add starter code
+
+commit 9d9fc1d50bb133a51ddc8a125a7eb167e0bed660
+Author: mishevnikola <misevnikola0@gmail.com>
+Date:   Sat Apr 13 19:35:17 2024 +0200
+
+    Initial commit
+
+
+bug 2
+________________________________
+
+
+C:\Users\Mishev\Desktop\SI_2024_lab1_215052>git log
+commit 3e0b5fb435f7994fdc14f0b4b008c97ba8f42887 (HEAD -> bug2, origin/master, origin/bug2, master)
+Author: mishevnikola <misevnikola0@gmail.com>
+Date:   Sat Apr 13 19:52:37 2024 +0200
+
+                            Call method makeBigStringFrom in main class
+
+commit 6729ab2b47951e1a45cc1eccbddd8d9a9c0065c1
+Author: mishevnikola <misevnikola0@gmail.com>
+Date:   Sat Apr 13 19:49:26 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit d378fd48bd023e5d13668ed195b61889c7e4fef8 (origin/bug1, bug1)
+Author: mishevnikola <misevnikola0@gmail.com>
+Date:   Sat Apr 13 19:51:13 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit f484c7f654326eef589d84cf7ba0e91ee85b6688
+Author: mishevnikola <misevnikola0@gmail.com>
+Date:   Sat Apr 13 19:48:01 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit df6016a559d0bedca0a4d43886d3f367c82419f6
+Author: mishevnikola <misevnikola0@gmail.com>
+Date:   Sat Apr 13 19:37:58 2024 +0200
+
+    Add starter code
+
+commit 9d9fc1d50bb133a51ddc8a125a7eb167e0bed660
+Author: mishevnikola <misevnikola0@gmail.com>
+Date:   Sat Apr 13 19:35:17 2024 +0200
+
+    Initial commit
+
+
+
